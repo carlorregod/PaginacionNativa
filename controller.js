@@ -1,4 +1,3 @@
-
 var capsula = function() {
 	//Como funciones "privadas"
 	_ajaxCallback = function(params, method, url, callback, asynchr=true )
